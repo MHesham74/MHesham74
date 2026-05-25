@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MHesham74/MHesham74/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MHesham74/MHesham74/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazBuZGFzOXhoOGl6bXVicHhyeDVzdWlhcWtsZjY3eG5rZG85Z2dweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1ZkjACTIMheAkcDkqc/giphy.gif"  />
 
 ###
@@ -52,3 +45,10 @@
 </div>
 
 ###
+
+### 👨‍💻 About Me:
+
+- 💻 I am a passionate Backend Developer focused on building robust and efficient web applications.
+- ⚙️ My core expertise lies in backend development using **PHP** and the **Laravel** framework.
+- 🎨 I also have a solid foundation in frontend technologies, including **HTML, CSS, JavaScript, and Bootstrap**, which allows me to work seamlessly across the stack.
+- 🚀 I enjoy writing clean, maintainable code and continuously exploring new technologies to enhance my skill set.
